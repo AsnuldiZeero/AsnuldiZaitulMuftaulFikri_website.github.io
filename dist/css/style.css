@@ -95,9 +95,10 @@ header svg{
 
 /* Tentang */
 .tentang{
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    background: linear-gradient(135deg, #4facfe, #ffd700);
     padding-block: 50px;
-    color: rgb(206, 193, 229);
+    color: rgb(92, 12, 229);
+    background-color: #9314bd;
 }
 
 .tentang .container > h1{
